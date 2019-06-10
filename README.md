@@ -17,7 +17,8 @@ To install Jupyter Notebook, you have two options:
     ```
 
 * Install [Anaconda](http://www.anaconda.com) which contains many scientific libraries preinstalled.
-  **Note:** This is recommended but not a must have.
+  
+   **Note:** This is recommended but not a must have.
 ## Starting the Jupyter Notebook Server
 
 To get started using the Jupyter Notebook Server, run command:
