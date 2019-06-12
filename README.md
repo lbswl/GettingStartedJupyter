@@ -27,3 +27,9 @@ To get started using the Jupyter Notebook Server, run command:
 $ jupyter notebook
 ```         
 
+## Resources
+
+Here is a list of further resources:
+
+* [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks).
+* [Jupyter Notebook Tutorial: The Definitive Guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook).
